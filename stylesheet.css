@@ -32,12 +32,13 @@ header {
 .logo-title {
 	cursor: pointer;
 	transition: all .5s ease 0s;
-    margin-top: 9px;
+    	margin-top: 9px;
 }
 
 .logo:hover {
 	color: #00FFFF;
-    transform: skew(8deg);
+    	transform: skew(8deg);
+	transition: all .5s ease 0s;
 }
 
 .btn-cta {
@@ -103,8 +104,8 @@ a {
 .description {
 	font-size: 20px;
 	font-family:Georgia, 'Times New Roman', Times, serif;
-    text-align: justify;
-    margin: 0px 10px;
+    	text-align: justify;
+    	margin: 0px 10px;
 }
 
 .img-foto {
